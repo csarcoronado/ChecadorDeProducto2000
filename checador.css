@@ -1,0 +1,151 @@
+/*pantalla chica*/
+.logo{
+    font-size: 12px;
+}
+.conteinerH{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  .conteinerG{
+    width: 340px;
+    justify-content: center;
+    align-items: center;
+    border: darkgray;
+    height: 400px;
+    }
+.conteinerC{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    justify-content: center;
+    position: sticky;
+    align-items: center;
+    text-align: center;
+    margin-top: auto;
+    width: 100%;
+    font-size: 14px;
+  }
+  .formu{
+    width: 100%;
+    height: 30px;
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+  }
+  .formu .buttonXepCh{
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 0px;
+  }
+  .formu .buttonXepChe{
+    font-size: 13px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    right: 0px;
+  }
+/*pantalla mediana*/
+.logo{
+    font-size: 24px;
+}
+.conteinerHm{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  .conteinerGm{
+    width: 460px;
+    justify-content: center;
+    align-items: center;
+    border: darkgray;
+    height: 440px;
+    }
+.conteinerCm{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    justify-content: center;
+    position: sticky;
+    align-items: center;
+    text-align: center;
+    margin-top: auto;
+    width: 100%;
+    font-size: 16px;
+  }
+  .formum{
+    width: 100%;
+    height: 45px;
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+  }
+  .formum .buttonXepChm{
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 0px;
+  }
+  .formum .buttonXepChem{
+    font-size: 29px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    right: 0px;
+  }
+/*pantalla grande*/
+.logo{
+  font-size: 36px;
+}
+.conteinerHg{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  .conteinerGg{
+    width: 800px;
+    justify-content: center;
+    align-items: center;
+    border: darkgray;
+    height: 460px;
+    }
+.conteinerCg{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    justify-content: center;
+    position: sticky;
+    align-items: center;
+    text-align: center;
+    margin-top: auto;
+    width: 100%;
+    font-size: 20px;
+  }
+  .formug{
+    width: 100%;
+    height: 80px;
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+  }
+  .formug .buttonXepChg{
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 0px;
+  }
+  .formug .buttonXepCheg{
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    right: 0px;
+    top: 20px
+  }
+.inputCh{
+  width: 50%;
+}
